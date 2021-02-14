@@ -97,4 +97,4 @@ plt.ylabel("Principal Component 2")
 
 ## plot (plt.show() in normal jupyter notebook)
 
-st.pyplot()
+st.pyplot(fig)
