@@ -1,0 +1,4 @@
+matplotlib==3.3.2
+numpy==1.19.2
+streamlit==0.76.0
+scikit_learn==0.24.1
